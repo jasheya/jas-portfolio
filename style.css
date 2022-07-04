@@ -1,0 +1,30 @@
+body{
+    font-family: 'Titan One', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 60%;
+    padding: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(235, 91, 115), rgb(221, 77, 77));
+    color: black;
+    font-weight: 700;
+    padding: 10px 50px;
+    border-radius: 5px;
+}
+.top-border{
+    background-image: url(pexels-miguel-á-padriñán-1111316.jpg);
+    background-repeat: no-repeat;
+    background-size: 95%;
+}
